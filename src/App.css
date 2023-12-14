@@ -6,8 +6,9 @@
 
 body{
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
-  height: 100vh;
+  height: 100dvh;
   width: 100%;
+  margin-inline:50px;
   display: flex;align-items: center;justify-content: center;
   color: rgba(255, 255, 255, 0.87);
   --color: rgba(114, 114, 114, 0.3);
