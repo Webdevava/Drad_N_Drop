@@ -1,2 +1,2 @@
 # drag and drop
-made with react
+made with only react
